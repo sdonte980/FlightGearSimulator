@@ -43,5 +43,6 @@ And Press "Fly!" on FlightGear simulator.
 **Alex Weiser**
 
 ## Link
+https://github.com/sdonte980/FlightGearSimulator
 https://github.com/kerenshina/flight_simulator
 
